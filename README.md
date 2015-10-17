@@ -1,4 +1,4 @@
-# Mario-Revolution
+# Mario Revolution
 Continuation of the legendary 2D shooter that opens the door to a new game world.
 
 ### About
